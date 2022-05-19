@@ -1,4 +1,4 @@
-# Exercício Producer Consumer 🍴
+# Exercício Producer Consumer 👩‍💻
 Nesse repositório está incluído um código escrito na linguagem C, um Makefile e um ReadMe.
 
 ### Introdução
